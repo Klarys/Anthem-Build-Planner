@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="DBApp.Views.GameTipsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DBApp.Views"
+             mc:Ignorable="d" 
+             Background="WhiteSmoke" BorderThickness="2" BorderBrush="Black"
+             d:DesignHeight="460" d:DesignWidth="710" Foreground="Black">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Column="0" Grid.Row="1" FontSize="40" HorizontalAlignment="Center" Grid.ColumnSpan="5">Game Tips</TextBlock>
+
+        <TextBlock Grid.Column="1" Grid.Row="3" x:Name="Tip1" FontSize="15">Title : Contents</TextBlock>
+
+        <TextBlock Grid.Column="1" Grid.Row="5" x:Name="Tip2" FontSize="15">Title : Contents</TextBlock>
+
+        <TextBlock Grid.Column="1" Grid.Row="7" x:Name="Tip3" FontSize="15">Title : Contents</TextBlock>
+
+        <TextBlock Grid.Column="1" Grid.Row="9" x:Name="Tip4" FontSize="15">Title : Contents</TextBlock>
+
+        <TextBlock Grid.Column="1" Grid.Row="11" x:Name="Tip5" FontSize="15">Title : Contents</TextBlock>
+
+        <Button Grid.Row="12" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Right" VerticalAlignment="Bottom" MinWidth="20" MaxHeight="30" x:Name="ReturnToMenu">Menu</Button>
+
+    </Grid>
+</UserControl>

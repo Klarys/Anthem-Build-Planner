@@ -1,0 +1,29 @@
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\bin\Debug\InfoServer.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\bin\Debug\InfoServer.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\bin\Debug\InfoServer.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\obj\Debug\InfoServer.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\obj\Debug\InfoServer.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\obj\Debug\InfoServer.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\obj\Debug\InfoServer.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\InfoServer\obj\Debug\InfoServer.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\bin\Debug\InfoServer.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\bin\Debug\InfoServer.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\bin\Debug\InfoServer.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\obj\Debug\InfoServer.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\obj\Debug\InfoServer.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\obj\Debug\InfoServer.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\obj\Debug\InfoServer.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\InfoServer\obj\Debug\InfoServer.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\bin\Debug\InfoServer.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\bin\Debug\InfoServer.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\bin\Debug\InfoServer.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\obj\Debug\InfoServer.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\obj\Debug\InfoServer.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\obj\Debug\InfoServer.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\InfoServer\obj\Debug\InfoServer.pdb

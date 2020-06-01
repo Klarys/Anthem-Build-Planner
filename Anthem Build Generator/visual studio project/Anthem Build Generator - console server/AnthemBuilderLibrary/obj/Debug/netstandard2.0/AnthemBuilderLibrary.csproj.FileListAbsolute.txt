@@ -1,0 +1,45 @@
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.deps.json
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfo.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.deps.json
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csprojAssemblyReference.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csproj.CoreCompileInputs.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfoInputs.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfo.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.deps.json
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csprojAssemblyReference.cache
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csproj.CoreCompileInputs.cache
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfoInputs.cache
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfo.cs
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+I:\projekt Klarys\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.deps.json
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfo.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.deps.json
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\bin\Debug\netstandard2.0\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.AssemblyInfo.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\AnthemBuilderLibrary\obj\Debug\netstandard2.0\AnthemBuilderLibrary.pdb

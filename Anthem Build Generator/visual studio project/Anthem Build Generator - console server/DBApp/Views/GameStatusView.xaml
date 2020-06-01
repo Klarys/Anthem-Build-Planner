@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="DBApp.Views.GameStatusView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DBApp.Views"
+             mc:Ignorable="d" 
+             Background="WhiteSmoke" BorderThickness="2" BorderBrush="Black"
+             d:DesignHeight="460" d:DesignWidth="710" Foreground="Black">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Column="0" Grid.Row="1" FontSize="40" HorizontalAlignment="Center" Grid.ColumnSpan="5">Game servers status</TextBlock>
+
+        <TextBlock Grid.Column="1" Grid.Row="3" FontSize="20" HorizontalAlignment="Center" >NA SERVER:</TextBlock>
+        <TextBlock x:Name="NAstatus" Grid.Column="2" Grid.Row="3" FontSize="20" HorizontalAlignment="Center" >status</TextBlock>
+        <Button Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="6" MaxHeight="20" MaxWidth="80" x:Name="RefreshServerStatus">⭯ Refresh ⭯</Button>
+
+
+        <TextBlock Grid.Column="1" Grid.Row="4" FontSize="20" HorizontalAlignment="Center" >EU SERVER:</TextBlock>
+        <TextBlock x:Name="EUstatus" Grid.Column="2" Grid.Row="4" FontSize="20" HorizontalAlignment="Center" >status</TextBlock>
+
+        <TextBlock Grid.Column="0" Grid.Row="7" FontSize="40" HorizontalAlignment="Center" Grid.ColumnSpan="5">Latest game news</TextBlock>
+        <TextBlock x:Name="GameNewsTitle" Grid.Column="0" Grid.Row="8" FontSize="30" HorizontalAlignment="Center" Grid.ColumnSpan="5">Title</TextBlock>
+        <Button Content="{Binding GameNewsLink}" x:Name="OpenNews" Grid.Column="0" Grid.ColumnSpan="6" Margin="0 20 0 0" Grid.Row="9" HorizontalAlignment="Center" Background="Transparent" FontSize="20" BorderBrush="Transparent" Foreground="blue"></Button>
+        <Button Grid.Row="10" Grid.Column="0" Grid.ColumnSpan="6" MaxHeight="20" MaxWidth="80" x:Name="RefreshGameNews">⭯ Refresh ⭯</Button>
+
+
+        <Button Grid.Row="12" Grid.Column="0" Grid.ColumnSpan="6" HorizontalAlignment="Right" VerticalAlignment="Bottom" MinWidth="20" MaxHeight="30" x:Name="ReturnToMenu">Menu</Button>
+
+    </Grid>
+</UserControl>

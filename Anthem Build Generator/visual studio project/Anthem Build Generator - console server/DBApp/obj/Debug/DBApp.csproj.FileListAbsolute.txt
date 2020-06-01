@@ -1,0 +1,287 @@
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Dapper.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Dapper.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\App.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.lref
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\App.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.g.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\bin\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\projekt bazodanowy\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe.config
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\DBApp.pdb
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Dapper.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\System.Windows.Interactivity.dll
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.pdb
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.xml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Dapper.xml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.xml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.xml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csprojAssemblyReference.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\App.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.lref
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\App.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.baml
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.g.resources
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CopyComplete
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.exe
+D:\Pulpit\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.pdb
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe.config
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\DBApp.pdb
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\BouncyCastle.Crypto.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Dapper.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\System.Windows.Interactivity.dll
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.pdb
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.xml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.xml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Dapper.xml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.xml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.xml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csprojAssemblyReference.cache
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\App.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.cache
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.lref
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\App.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.baml
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.g.resources
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CopyComplete
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.exe
+I:\projekt Klarys\visual studio project\DBProject\DBApp\obj\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\GameStatusView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\App.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp_MarkupCompile.lref
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Dapper.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Dapper.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\bin\Debug\MySql.Data.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\App.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\BrowseBuildsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\BuildDetailsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\CreateEditBuildView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\GameStatusView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\LoginView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\MainMenuView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\RegisterView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\ShellView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.g.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\DBApp.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\GameTipsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\DBProject\DBApp\obj\Debug\Views\GameTipsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\DBApp.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Caliburn.Micro.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Dapper.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\MySql.Data.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Caliburn.Micro.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Dapper.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\bin\Debug\MySql.Data.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\BrowseBuildsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\BuildDetailsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\CreateEditBuildView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\GameStatusView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\GameTipsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\LoginView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\RegisterView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\ShellView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\App.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp_MarkupCompile.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp_MarkupCompile.lref
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\App.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\BrowseBuildsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\BuildDetailsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\CreateEditBuildView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\GameStatusView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\GameTipsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\LoginView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\MainMenuView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\RegisterView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\Views\ShellView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.g.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\visual studio project\KRZYSZTOF_KLARKOWSKI\DBApp\obj\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\DBApp.exe.config
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\DBApp.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\AnthemBuilderLibrary.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Caliburn.Micro.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Dapper.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\MySql.Data.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\AnthemBuilderLibrary.pdb
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Caliburn.Micro.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Dapper.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\bin\Debug\MySql.Data.xml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.csprojAssemblyReference.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\BrowseBuildsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\BuildDetailsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\CreateEditBuildView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\GameStatusView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\GameTipsView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\LoginView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\RegisterView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\ShellView.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\App.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp_MarkupCompile.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp_MarkupCompile.lref
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\App.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\BrowseBuildsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\BuildDetailsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\CreateEditBuildView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\GameStatusView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\GameTipsView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\LoginView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\MainMenuView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\RegisterView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\Views\ShellView.baml
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.g.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.Properties.Resources.resources
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.csproj.GenerateResource.cache
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.csproj.CopyComplete
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.exe
+C:\Users\Krzys\OneDrive\STUDIA\semestr 4\programowanie III\PROJEKT ZALICZENIOWY\Programowanie-III\Anthem Build Generator\visual studio project\Anthem Build Generator\DBApp\obj\Debug\DBApp.pdb

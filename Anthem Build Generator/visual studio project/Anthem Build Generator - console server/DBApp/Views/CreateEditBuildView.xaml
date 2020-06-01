@@ -1,0 +1,197 @@
+﻿<UserControl x:Class="DBApp.Views.CreateEditBuildView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DBApp.Views"
+             mc:Ignorable="d" 
+             BorderThickness="2" BorderBrush="Black" 
+             d:DesignHeight="480" d:DesignWidth="710" Foreground="Black">
+    <UserControl.Background>
+        <SolidColorBrush Color="White" Opacity="0.8" />
+    </UserControl.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        
+        
+        <TextBlock Grid.Row="1" Grid.Column="1" FontSize="20" FontWeight="Bold">1. Pick Name for your build:</TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="SelectedName" MaxLength="64" TextWrapping="Wrap">Name</TextBox>
+        <TextBlock Grid.Row="1" Grid.Column="3" FontSize="15" FontWeight="Bold">8. Additional Notes:</TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="3" x:Name="SelectedAdditionalNotes" TextWrapping="Wrap" MaxLength="250" MinWidth="250"  MaxWidth="250" Grid.RowSpan="6">Notes</TextBox>
+
+        <TextBlock Grid.Row="4" Grid.Column="1" FontSize="20" FontWeight="Bold">2. Pick Class:</TextBlock>
+        <ComboBox Grid.Row="5" Grid.Column="1" x:Name="Classes" SelectedItem="{Binding SelectedClass}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <TextBlock Grid.Row="6" Grid.Column="1" FontSize="20" FontWeight="Bold">3. Pick Components:</TextBlock>
+        <StackPanel Orientation="Vertical" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal">
+                <ComboBox ItemsSource="{Binding Components, Mode=OneWay}" SelectedItem="{Binding SelectedComponent1}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}" />
+                                <TextBlock Text="{Binding Class}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <ComboBox ItemsSource="{Binding Components, Mode=OneWay}" SelectedItem="{Binding SelectedComponent2}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}" />
+                                <TextBlock Text="{Binding Class}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <ComboBox ItemsSource="{Binding Components, Mode=OneWay}" SelectedItem="{Binding SelectedComponent3}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}" />
+                                <TextBlock Text="{Binding Class}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <ComboBox ItemsSource="{Binding Components, Mode=OneWay}" SelectedItem="{Binding SelectedComponent4}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}" />
+                                <TextBlock Text="{Binding Class}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <ComboBox ItemsSource="{Binding Components, Mode=OneWay}" SelectedItem="{Binding SelectedComponent5}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}" />
+                                <TextBlock Text="{Binding Class}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <ComboBox ItemsSource="{Binding Components, Mode=OneWay}" SelectedItem="{Binding SelectedComponent6}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Name}" />
+                                <TextBlock Text="{Binding Class}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+            </StackPanel>
+
+
+        </StackPanel>
+
+        <TextBlock Grid.Row="9" Grid.Column="1" FontSize="20" FontWeight="Bold">4. Pick Weapons:</TextBlock>
+        <StackPanel Orientation="Horizontal" Grid.Row="10" Grid.Column="1" >
+            <ComboBox ItemsSource="{Binding Weapons, Mode=OneWay}" SelectedItem="{Binding SelectedWeapon1}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" />
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <ComboBox ItemsSource="{Binding Weapons, Mode=OneWay}" SelectedItem="{Binding SelectedWeapon2}" Margin="5" IsSynchronizedWithCurrentItem="False">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" />
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <TextBlock Grid.Row="11" Grid.Column="1" FontSize="20" FontWeight="Bold">5. Pick Assault System:</TextBlock>
+        <ComboBox Grid.Row="12" Grid.Column="1" x:Name="AssaultSystems" SelectedItem="{Binding SelectedAssaultSystem}" Margin="5">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        
+        <TextBlock Grid.Row="13" Grid.Column="1" FontSize="20" FontWeight="Bold">6. Pick Support System:</TextBlock>
+        <ComboBox Grid.Row="14" Grid.Column="1" x:Name="SupportSystems" SelectedItem="{Binding SelectedSupportSystem}" Margin="5">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <TextBlock Grid.Row="15" Grid.Column="1" FontSize="20" FontWeight="Bold">7. Pick Strike System:</TextBlock>
+        <ComboBox Grid.Row="16" Grid.Column="1" x:Name="StrikeSystems" SelectedItem="{Binding SelectedStrikeSystem}" Margin="5">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <StackPanel Grid.Row="8" Grid.Column="3" Grid.RowSpan="10" Orientation="Vertical"  MinWidth="300" MaxWidth="400">
+            <TextBlock Margin="5 5 0 0" FontSize="15" FontWeight="Bold">Item details:</TextBlock>
+            <TextBlock Margin="5 5 0 0" FontSize="13" FontWeight="Bold">Rarity:</TextBlock>
+            <TextBlock x:Name="ItemDetailsRarity" Margin="10 0 0 0"></TextBlock>
+            <TextBlock Margin="5 5 0 0" FontSize="13" FontWeight="Bold">Damage:</TextBlock>
+            <TextBlock x:Name="ItemDetailsDamage" Margin="10 0 0 0"></TextBlock>
+            <TextBlock Margin="5 5 0 0" FontSize="13" FontWeight="Bold">Normal Effect:</TextBlock>
+            <TextBlock x:Name="ItemDetailsNormalEffect" TextWrapping="Wrap" Margin="10 0 0 0"></TextBlock>
+            <TextBlock Margin="5 5 0 0" FontSize="13" FontWeight="Bold">Special Effect:</TextBlock>
+            <TextBlock x:Name="ItemDetailsSpecialEffect" TextWrapping="Wrap" Margin="10 0 0 0"></TextBlock>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Vertical" Grid.Row="18" Grid.Column="3">
+            <TextBlock x:Name="Message"></TextBlock>
+            <Button  x:Name="SaveBuild">Save and quit</Button>
+        </StackPanel>
+        
+        <Button Grid.Row="18" Grid.Column="6" x:Name="ReturnToMenu">Menu</Button>
+    </Grid>
+</UserControl>
